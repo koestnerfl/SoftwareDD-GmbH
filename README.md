@@ -1,7 +1,7 @@
 # SoftwareDD-GmbH
 LF8_Projekt
 
-# Projekt IT- Installation
+Projekt IT- Installation
 
 
 # Szenario:
