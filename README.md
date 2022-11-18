@@ -1,10 +1,10 @@
 # SoftwareDD-GmbH
 LF8_Projekt
 
-Projekt IT- Installation
+# Projekt IT- Installation
 
 
-Szenario:
+# Szenario:
 Sie arbeiten als Angestellter im Softwareentwicklungsunternehmen SoftwareDD GmbH (Softwaregasse 12,
 01219 Dresden).
 Ihr Kunde, ein anderes Unternehmen, die ITSystemHausDD GmbH, ist im Bereich der Systemintegration tätig
