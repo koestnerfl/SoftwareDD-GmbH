@@ -3,7 +3,7 @@ LF8_Projekt
 
 Projekt IT- Installation
 
-INFO: Dies ist der Standpunkt unseres Projektes, Stand 25.11.2022. Leider konnten wir nicht alle 5 Phasen durcharbeiten, da unsere Gruppe bestehend aus: Florian Köstner und Florian Rothe, nur zu zweit arbeitet und wir es somit nicht im vorgegebenen Zeitrahmen geschafft haben.
+# INFO: Dies ist der Standpunkt unseres Projektes, Stand 25.11.2022. Leider konnten wir nicht alle 5 Phasen durcharbeiten, da unsere Gruppe bestehend aus: Florian Köstner und Florian Rothe, nur zu zweit arbeitet und wir es somit nicht im vorgegebenen Zeitrahmen geschafft haben.
 
 # Szenario:
 Sie arbeiten als Angestellter im Softwareentwicklungsunternehmen SoftwareDD GmbH (Softwaregasse 12,
